@@ -3,7 +3,7 @@
 ```localvault``` - A command line utility to generate random **passwords** for the given **username/key**. It generates random passwords on the fly using **encryption algorithm** and store **locally** to access them later. In today's time where privacy is the major concern, **localvault** saves you with not only storing your **passwords** locally but also being hacked at the end. It allows you to be your own master and makes sure your secrets are completely secret to you.
 
 ##### Requirements
-- Python 3.6
+- >= Python 3.9
 
 ## Installation
 Since the project is in the development mode, following steps can be followed to install the localvault utility.
